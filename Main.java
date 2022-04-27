@@ -7,7 +7,7 @@ class Main {
       System.out.println("Rut valido");
     }
     else{
-      System.out.println("Rut no valido");
+      System.out.println("Rut no validojjj");
       
     }
   }
